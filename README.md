@@ -102,8 +102,8 @@ If Elevated Risk (1):
 Technologies Used
 
 -Python 3.8+,
--Pandas, NumPy,
--Matplotlib, Seaborn,
--Scikit-Learn, XGBoost,
--Joblib,
--SHAP.
+Pandas, NumPy,
+Matplotlib, Seaborn,
+Scikit-Learn, XGBoost,
+Joblib,
+SHAP.
